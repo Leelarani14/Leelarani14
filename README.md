@@ -9,7 +9,7 @@ I'm an enthusiastic **student** and aspiring **Software Developer / Data Analyst
 
 - 💡 Always curious and eager to learn new things
 - 🔭 Currently exploring **Software Development** and **Data Analytics**
-- 🎓 ECE Undergrad at **MLR Institute of Technology** (CGPA: 9.15) | Hyderabad, India
+- 🎓 ECE Undergrad at **MLR Institute of Technology** (CGPA: 9.03) | Hyderabad, India
 - 🌱 Learning: Java, Python, MySQL (corporate training), C, IoT, VLSI, Data Structures & Algorithms, Data Analytics
 - 🧑‍💻 Actively seeking roles in **Software Development** and **Data Analytics**
 - 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/leelarani-lakhinana1406)
